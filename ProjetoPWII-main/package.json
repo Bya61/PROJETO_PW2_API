@@ -1,0 +1,23 @@
+{
+  "name": "projeto-pw2",
+  "version": "1.0.0",
+  "description": "SISTEMA DE VENDA DE ELETRÔNICOS DE UMA LOJA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "LOJA",
+    "ELETRÔNICOS",
+    "API",
+    "ETEC",
+    "BARUERI"
+  ],
+  "author": "BYATRIZ DOS SANTOS VIEIRA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+     "mysql2": "^2.3.3",
+    "sequelize": "^6.25.8"
+  }
+}
